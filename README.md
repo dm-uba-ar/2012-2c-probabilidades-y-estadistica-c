@@ -1,0 +1,19 @@
+# Probabilidades y Estadística C — Segundo cuatrimestre de 2012
+
+## Prácticas
+
+- [Anexo Práctica 3](anexo_p3.pdf)
+- [Gráficos Práctica 6](graficosPractica6.pdf)
+- [Práctica 1](practica1.pdf)
+- [Práctica 2](practica2.pdf)
+- [Práctica 3](practica3.pdf)
+- [Práctica 4](practica4.pdf)
+- [Práctica 5](practica5.pdf)
+- [Práctica 6](Practica6.pdf)
+- [Práctica 7](Practica7.pdf)
+- [Práctica 8](practica8.pdf)
+- [Práctica 9](practica9.pdf)
+
+## Página original
+
+[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2012/probabilidades_y_estadistica_C)
